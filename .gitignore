@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Папки и файли які Git повинен ігнорувати 
+.vscode
+.idea
+.DS_Store
+node_modules
+.env
+build/
+*.psd
